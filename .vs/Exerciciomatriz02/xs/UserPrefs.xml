@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{6AD856B3-0BE7-4512-9468-6B3539098D8A}|Default">
+  <MonoDevelop.Ide.ItemProperties.Exerciciomatriz02 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Exerciciomatriz02/Program.cs">
+    <Files>
+      <File FileName="Exerciciomatriz02/Program.cs" Line="50" Column="30" />
+      <File FileName="Exerciciomatriz02/PosicoesMatriz.cs" Line="24" Column="23" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Exerciciomatriz02" expanded="True">
+            <Node name="Exerciciomatriz02" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,11 @@
+/Users/macbookpro/Projects/Exerciciomatriz02/Exerciciomatriz02/obj/Debug/netcoreapp2.1/Exerciciomatriz02.csprojAssemblyReference.cache
+/Users/macbookpro/Projects/Exerciciomatriz02/Exerciciomatriz02/obj/Debug/netcoreapp2.1/Exerciciomatriz02.csproj.CoreCompileInputs.cache
+/Users/macbookpro/Projects/Exerciciomatriz02/Exerciciomatriz02/obj/Debug/netcoreapp2.1/Exerciciomatriz02.AssemblyInfoInputs.cache
+/Users/macbookpro/Projects/Exerciciomatriz02/Exerciciomatriz02/obj/Debug/netcoreapp2.1/Exerciciomatriz02.AssemblyInfo.cs
+/Users/macbookpro/Projects/Exerciciomatriz02/Exerciciomatriz02/bin/Debug/netcoreapp2.1/Exerciciomatriz02.deps.json
+/Users/macbookpro/Projects/Exerciciomatriz02/Exerciciomatriz02/bin/Debug/netcoreapp2.1/Exerciciomatriz02.runtimeconfig.json
+/Users/macbookpro/Projects/Exerciciomatriz02/Exerciciomatriz02/bin/Debug/netcoreapp2.1/Exerciciomatriz02.runtimeconfig.dev.json
+/Users/macbookpro/Projects/Exerciciomatriz02/Exerciciomatriz02/bin/Debug/netcoreapp2.1/Exerciciomatriz02.dll
+/Users/macbookpro/Projects/Exerciciomatriz02/Exerciciomatriz02/bin/Debug/netcoreapp2.1/Exerciciomatriz02.pdb
+/Users/macbookpro/Projects/Exerciciomatriz02/Exerciciomatriz02/obj/Debug/netcoreapp2.1/Exerciciomatriz02.dll
+/Users/macbookpro/Projects/Exerciciomatriz02/Exerciciomatriz02/obj/Debug/netcoreapp2.1/Exerciciomatriz02.pdb
